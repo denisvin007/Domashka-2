@@ -1,0 +1,21 @@
+using System;
+
+namespace MyFirstApp
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            double weight = 80;
+            int coins = 10;
+            String studentName = "Denis";
+            byte number1 = 1;
+            sbyte number2= -128;
+            short number3 = 0;
+            float = 5.13f;
+            decimal dollars;
+            char key;
+            long car;
+        }
+    }
+}
